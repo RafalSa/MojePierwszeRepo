@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\MojePierwszeRepo1\MojePierwszeRepo1\bin\Debug\net8.0\MojePierwszeRepo1.exe
+C:\Users\Student\source\repos\MojePierwszeRepo1\MojePierwszeRepo1\bin\Debug\net8.0\MojePierwszeRepo1.deps.json
+C:\Users\Student\source\repos\MojePierwszeRepo1\MojePierwszeRepo1\bin\Debug\net8.0\MojePierwszeRepo1.runtimeconfig.json
+C:\Users\Student\source\repos\MojePierwszeRepo1\MojePierwszeRepo1\bin\Debug\net8.0\MojePierwszeRepo1.dll
+C:\Users\Student\source\repos\MojePierwszeRepo1\MojePierwszeRepo1\bin\Debug\net8.0\MojePierwszeRepo1.pdb
+C:\Users\Student\source\repos\MojePierwszeRepo1\MojePierwszeRepo1\obj\Debug\net8.0\MojePierwszeRepo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\MojePierwszeRepo1\MojePierwszeRepo1\obj\Debug\net8.0\MojePierwszeRepo1.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\MojePierwszeRepo1\MojePierwszeRepo1\obj\Debug\net8.0\MojePierwszeRepo1.AssemblyInfo.cs
+C:\Users\Student\source\repos\MojePierwszeRepo1\MojePierwszeRepo1\obj\Debug\net8.0\MojePierwszeRepo1.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MojePierwszeRepo1\MojePierwszeRepo1\obj\Debug\net8.0\MojePierwszeRepo1.sourcelink.json
+C:\Users\Student\source\repos\MojePierwszeRepo1\MojePierwszeRepo1\obj\Debug\net8.0\MojePierwszeRepo1.dll
+C:\Users\Student\source\repos\MojePierwszeRepo1\MojePierwszeRepo1\obj\Debug\net8.0\refint\MojePierwszeRepo1.dll
+C:\Users\Student\source\repos\MojePierwszeRepo1\MojePierwszeRepo1\obj\Debug\net8.0\MojePierwszeRepo1.pdb
+C:\Users\Student\source\repos\MojePierwszeRepo1\MojePierwszeRepo1\obj\Debug\net8.0\MojePierwszeRepo1.genruntimeconfig.cache
+C:\Users\Student\source\repos\MojePierwszeRepo1\MojePierwszeRepo1\obj\Debug\net8.0\ref\MojePierwszeRepo1.dll

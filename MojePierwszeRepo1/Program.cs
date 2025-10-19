@@ -1,6 +1,5 @@
 ﻿
 using System;
-using System.Runtime.InteropServices;
 
 
 
@@ -69,8 +68,6 @@ class Program
                         int count = CountAdjacentBombs(board, x, y);
 
                         displayBoard[y, x] = count.ToString()[0];
-
-
 
                         if (count == 0)
 
@@ -265,6 +262,7 @@ class Program
 
             for (int j = Math.Max(0, x - 1); j <= Math.Min(width - 1, x + 1); j++)
 
+
             {
 
                 if (board[i, j] == '*')
@@ -365,7 +363,6 @@ class Program
 
 
 
-        return uncoveredCount == (width * height - bombCount);
 
     }
 

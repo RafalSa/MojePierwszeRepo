@@ -7,7 +7,7 @@
 2. **Kroki:**
    - Sklonuj repozytorium:
      ```bash
-     git clone https://adres-do-twojego-repo.git
+     git clone https://github.com/RafalSa/MojePierwszeRepo
      ```
    - Przejdź do folderu projektu:
      ```bash

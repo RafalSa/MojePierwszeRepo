@@ -362,7 +362,7 @@ class Program
         }
 
 
-
+        return uncoveredCount == (width * height - bombCount);
 
     }
 

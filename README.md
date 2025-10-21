@@ -11,7 +11,7 @@
      ```
    - Przejdź do folderu projektu:
      ```bash
-     cd MojePierwszeRepo1
+     cd MojePierwszeRepo then cd MojePierwszeRepo1
      ```
    - Uruchom aplikację:
      ```bash
